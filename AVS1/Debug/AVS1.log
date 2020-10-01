@@ -1,4 +1,0 @@
-﻿  AVS1.cpp
-C:\Users\rodio\source\repos\AVS1\AVS1\AVS1.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\rodio\source\repos\AVS1\AVS1\AVS1.cpp(53): warning C4799: функция "main" не имеет инструкции EMMS
-  AVS1.vcxproj -> C:\Users\rodio\source\repos\AVS1\Debug\AVS1.exe
